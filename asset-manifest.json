@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/birthday/static/css/main.3c4ff85f.css",
-    "main.js": "/birthday/static/js/main.0ca05ea1.js",
+    "main.css": "/birthday/static/css/main.1a4cf237.css",
+    "main.js": "/birthday/static/js/main.f26bf447.js",
     "static/js/453.fa82fd2b.chunk.js": "/birthday/static/js/453.fa82fd2b.chunk.js",
     "static/media/jungle_back.png": "/birthday/static/media/jungle_back.78718514ae0bd13456fa.png",
     "static/media/present.gif": "/birthday/static/media/present.2f586540e1afdd9b325e.gif",
@@ -14,12 +14,12 @@
     "static/media/spud.svg": "/birthday/static/media/spud.1eeea76168672cf42fb64df3cdc6496c.svg",
     "static/media/mic.svg": "/birthday/static/media/mic.b8f5301f7df7dc867d6ce670b6d394df.svg",
     "index.html": "/birthday/index.html",
-    "main.3c4ff85f.css.map": "/birthday/static/css/main.3c4ff85f.css.map",
-    "main.0ca05ea1.js.map": "/birthday/static/js/main.0ca05ea1.js.map",
+    "main.1a4cf237.css.map": "/birthday/static/css/main.1a4cf237.css.map",
+    "main.f26bf447.js.map": "/birthday/static/js/main.f26bf447.js.map",
     "453.fa82fd2b.chunk.js.map": "/birthday/static/js/453.fa82fd2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c4ff85f.css",
-    "static/js/main.0ca05ea1.js"
+    "static/css/main.1a4cf237.css",
+    "static/js/main.f26bf447.js"
   ]
 }
